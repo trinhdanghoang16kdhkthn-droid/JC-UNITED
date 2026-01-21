@@ -1,0 +1,5 @@
+{
+  "name": "JC United Manager",
+  "description": "Ứng dụng quản lý tài chính, thu chi và thành viên cho đội bóng JC United, tích hợp AI để phân tích ngân sách.",
+  "requestFramePermissions": []
+}
